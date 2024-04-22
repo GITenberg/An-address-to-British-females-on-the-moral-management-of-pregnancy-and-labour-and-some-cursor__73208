@@ -1,5 +1,8 @@
 _repo: An-address-to-British-females-on-the-moral-management-of-pregnancy-and-labour-and-some-cursor__73208
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73208-h/images/cover.jpg
 creator:
   author:
     agent_name: Cooke, William
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '56980'
     url: http://www.gutenberg.org/2009/agents/56980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73208#An-address-to-British-females-on-the-moral-management-of-pregnancy-and-labour-and-some-cursor_
 gutenberg_issued: '2024-03-19'
 gutenberg_type: Text
 identifiers:
